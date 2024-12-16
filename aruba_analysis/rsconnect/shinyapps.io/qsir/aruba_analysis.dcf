@@ -1,0 +1,10 @@
+name: aruba_analysis
+title:
+username: qsir
+account: qsir
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13607442
+bundleId: 9529774
+url: https://qsir.shinyapps.io/aruba_analysis/
+version: 1
